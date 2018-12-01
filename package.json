@@ -20,8 +20,11 @@
   "dependencies": {
     "express": "^4.16.4",
     "express-handlebars": "^3.0.0",
+    "handlebar": "^1.0.0",
     "handlebars": "^4.0.12",
-    "mysql": "^2.16.0"
+    "mysql": "^2.16.0",
+    "orm": "^5.0.2",
+    "require": "^2.4.20"
   },
   "devDependencies": {}
 }
